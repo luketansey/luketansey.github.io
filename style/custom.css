@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,900&display=swap');
 
-html {
+html { 
     scroll-behavior: smooth;
 --body-bg: #1b1b1b;
 --text-color: #2d354c;
